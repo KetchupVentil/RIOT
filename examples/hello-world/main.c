@@ -13,7 +13,7 @@
  * @file
  * @brief       Hello World application
  *
- * @author      Kaspar Schleiser <kaspar@schleiser.de>
+ * @EZHI      Kaspar Schleiser <kaspar@schleiser.de>
  * @author      Ludwig Knüpfer <ludwig.knuepfer@fu-berlin.de>
  *
  * @}
